@@ -17,5 +17,6 @@ test_proportions = test[stratify_column].value_counts(normalize=True)
 
 print("Training Set Proportions:")
 print(train_proportions)
+
 print("\nTesting Set Proportions:")
 print(test_proportions)
