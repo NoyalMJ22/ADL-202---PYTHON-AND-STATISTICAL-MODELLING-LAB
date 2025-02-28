@@ -1,37 +1,40 @@
-# ADL202 Python Lab Repository
+# ADL-202 PYTHON AND STATISTICAL MODELLING LAB
 
 ## Overview
-This repository contains Python programs and scripts developed as part of the **ADL202 Python Lab**. The programs focus on various fundamental and statistical programming concepts, including data visualization, sorting algorithms, statistical tests, and mathematical computations.
+This repository contains Python programs and scripts developed as part of the ADL-202 Python and Statistical Modelling Lab. The programs focus on various fundamental and statistical programming concepts, including data visualization, sorting algorithms, statistical tests, and mathematical computations.
 
-## Repository Structure
+## Repository structure
 The following Python files are included in this repository:
 
-### **Mathematical Computations**
-- **AreaofTriangle.py** - Calculates the area of a triangle.
-- **MultiplicationTable.py** - Generates a multiplication table.
-- **Prime.py** - Finds prime numbers from a file.
-- **Sum.py** - Adds two numbers.
-- **Swapping.py** - Swaps two variables.
+### **Mathematical computations**
+- **AreaofTriangle.py** - calculates the area of a triangle.
+- **MultiplicationTable.py** - generates a multiplication table.
+- **Prime.py** - finds prime numbers from a file.
+- **Sum.py** - adds two numbers.
+- **Swapping.py** - swaps two variables.
 
-### **Data Structures and Algorithms**
-- **BubbleSort.py** - Implements the Bubble Sort algorithm.
-- **EvenOddTuples.py** - Separates even and odd numbers in a tuple.
+### **Data structures and algorithms**
+- **BubbleSort.py** - implements the Bubble Sort algorithm.
+- **EvenOddTuples.py** - separates even and odd numbers in a tuple.
 
-### **Statistical Analysis**
-- **CentralTendancy.py** - Computes the mean, median, and mode of a dataset.
-- **Chi-Square.py** - Implements the Chi-Square test for statistical significance.
-- **tTest.py** - Performs a t-test for comparing different means.
+### **Statistical analysis**
+- **CentralTendancy.py** - computes the mean, median, and mode of a dataset.
+- **CentralTendancy2.py** - another implementation of central tendency calculations.
+- **Chi-Square.py** - implements the Chi-Square test for statistical significance.
+- **MeasuresofDispersion.py** - computes measures of dispersion like variance and standard deviation.
+- **tTest.py** - performs a t-test for comparing different means.
 
-### **Data Visualization**
-- **BarChart.py** - Plots data on a bar chart.
-- **Histogram.py** - Creates a histogram for visualizing data distribution.
-- **Linechart.py** - Plots data using a line chart.
-- **Normal&Stem.py** - Generates a normal distribution graph and a stem plot.
-- **Rectifier.py** - Plots data using graphs.
+### **Data visualization**
+- **BarChart.py** - plots data on a bar chart.
+- **Histogram.py** - creates a histogram for visualizing data distribution.
+- **Linechart.py** - plots data using a line chart.
+- **Normal&Stem.py** - generates a normal distribution graph and a stem plot.
+- **Rectifier.py** - plots data using graphs.
 
 ### **Miscellaneous**
-- **Stratification.py** - Implementation of data stratification.
-- **Test.py** - A simple script to print "Hello World".
+- **Stratification.py** - implementation of data stratification.
+- **Test.py** - a simple script to print "Hello World".
+- **RangeEnumerate.py** - demonstrates string iteration using range and enumerate.
 
 ## Requirements
 To run these scripts, ensure you have Python installed. Some scripts require additional libraries such as:
