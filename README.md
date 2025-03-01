@@ -1,66 +1,78 @@
-# ADL-202 PYTHON AND STATISTICAL MODELLING LAB
+# 💊 ADL-202 Python and Statistical Modelling Lab  
 
-## Overview
-This repository contains Python programs and scripts developed as part of the ADL-202 Python and Statistical Modelling Lab. The programs focus on various fundamental and statistical programming concepts, including data visualization, sorting algorithms, statistical tests, and mathematical computations.
+## 🔍 Overview  
+This repository contains Python programs and scripts developed as part of the **ADL-202 Python and Statistical Modelling Lab**. It covers key **fundamental programming concepts, statistical modeling, data visualization, sorting algorithms, and mathematical computations**—essential for any aspiring data scientist!  
 
-## Repository structure
-The following Python files are included in this repository:
+---
 
-### **Mathematical computations**
-- **AreaofTriangle.py** - calculates the area of a triangle.
-- **MultiplicationTable.py** - generates a multiplication table.
-- **Prime.py** - finds prime numbers from a file.
-- **Sum.py** - adds two numbers.
-- **Swapping.py** - swaps two variables.
+## 📁 Repository Structure  
 
-### **Data structures and algorithms**
-- **BubbleSort.py** - implements the Bubble Sort algorithm.
-- **EvenOddTuples.py** - separates even and odd numbers in a tuple.
+### 🧪 **Mathematical Computations**  
+- **`AreaofTriangle.py`** – Calculates the area of a triangle.  
+- **`MultiplicationTable.py`** – Generates a multiplication table.  
+- **`Prime.py`** – Finds prime numbers from a file.  
+- **`Sum.py`** – Adds two numbers.  
+- **`Swapping.py`** – Swaps two variables.  
 
-### **Statistical analysis**
-- **CentralTendancy.py** - computes the mean, median, and mode of a dataset.
-- **CentralTendancy2.py** - another implementation of central tendency calculations.
-- **Chi-Square.py** - implements the Chi-Square test for statistical significance.
-- **MeasuresofDispersion.py** - computes measures of dispersion like variance and standard deviation.
-- **tTest.py** - performs a t-test for comparing different means.
+### 🏗 **Data Structures and Algorithms**  
+- **`BubbleSort.py`** – Implements the Bubble Sort algorithm.  
+- **`EvenOddTuples.py`** – Separates even and odd numbers in a tuple.  
 
-### **Data visualization**
-- **BarChart.py** - plots data on a bar chart.
-- **Histogram.py** - creates a histogram for visualizing data distribution.
-- **Linechart.py** - plots data using a line chart.
-- **Normal&Stem.py** - generates a normal distribution graph and a stem plot.
-- **Rectifier.py** - plots data using graphs.
+### 📊 **Statistical Analysis**  
+- **`CentralTendancy.py`** – Computes mean, median, and mode.  
+- **`CentralTendancy2.py`** – Another approach to central tendency calculations.  
+- **`Chi-Square.py`** – Performs the Chi-Square test for statistical significance.  
+- **`MeasuresofDispersion.py`** – Calculates variance and standard deviation.  
+- **`tTest.py`** – Conducts a t-test for comparing different means.  
 
-### **Miscellaneous**
-- **Stratification.py** - implementation of data stratification.
-- **Test.py** - a simple script to print "Hello World".
-- **RangeEnumerate.py** - demonstrates string iteration using range and enumerate.
+### 📈 **Data Visualization**  
+- **`BarChart.py`** – Plots data using bar charts.  
+- **`Histogram.py`** – Creates histograms for visualizing data distribution.  
+- **`LineChart.py`** – Plots data using a line chart.  
+- **`Normal&Stem.py`** – Generates a normal distribution graph and a stem plot.  
+- **`Rectifier.py`** – Plots data using various graphing techniques.  
 
-## Requirements
-To run these scripts, ensure you have Python installed. Some scripts require additional libraries such as:
+### 🎯 **Miscellaneous**  
+- **`Stratification.py`** – Implements data stratification.  
+- **`Test.py`** – A simple script that prints "Hello World".  
+- **`RangeEnumerate.py`** – Demonstrates string iteration using `range()` and `enumerate()`.  
+
+---
+
+## ⚙️ Requirements  
+Ensure **Python** is installed on your system. Some scripts require additional libraries, which you can install using:  
 
 ```bash
 pip install numpy pandas matplotlib scipy
 ```
 
-## Usage
-Run any script using the following command:
+---
+
+## 🚀 Usage  
+To run any script, use the following command:  
 
 ```bash
 python filename.py
 ```
 
-Example:
+For example:  
+
 ```bash
 python AreaofTriangle.py
 ```
 
-## Contributions
-Contributions and improvements are welcome! Feel free to fork this repository and submit pull requests.
+---
 
-## Author
-**Noyal Mathew Jain**
+## 🤝 Contributions  
+Contributions and improvements are always welcome! Feel free to **fork this repository** and submit **pull requests**.  
 
-## License
-This project is licensed under the MIT License.
+---
+
+## 👤 Author  
+📌 **Noyal Mathew Jain**  
+
+---
+
+## 📝 License  
+This project is licensed under the **MIT License**.  
 
